@@ -1,9 +1,10 @@
 {
-  "name": "simpal-calculator",
+  "name": "simple-calculator-11",
   "version": "1.0.0",
   "description": "This is a simple calculator",
   "main": "index.js",
   "type": "module",
+  "bin": "point.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
